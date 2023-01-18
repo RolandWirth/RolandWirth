@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning:
                         how to use bash, (R) scripts, shells, programs to analyse metagenomics data
 - 💞️ I’m looking to collaborate on:
-                        interested in metagenomics and creates code to analyse it
+                        interested in metagenomics and creates code to analyse it in R
 - 📫 How to reach me:
                         wirth.roland@brc.hu
 
