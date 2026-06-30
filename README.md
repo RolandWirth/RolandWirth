@@ -5,7 +5,7 @@
                         -microbial network detections in complex ecosystems
                         -taxonomical annotations
                         -functional annotations
-                        -statistical analysis of data
+                        -statistical analysis of metagenomics data
                       
 - 🌱 I’m currently learning:
                         how to use bash, (R) scripts, shells, programs to analyse metagenomics data
