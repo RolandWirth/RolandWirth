@@ -8,7 +8,7 @@
                         -statistical analysis of metagenomics data
                       
 - 🌱 I’m currently learning:
-                        how to use bash, (R) scripts, shells, programs to analyse metagenomics data
+                        how to use bash, (R) scripts, shells, programs to analyse metagenomic data
 - 💞️ I’m looking to collaborate on:
                         interested in metagenomics and creates code to analyse it in R
 - 📫 How to reach me:
